@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mm1719
+- 👀 I’m interested in learning knowledge about CS
+- 🌱 I’m currently learning data structures and algorithms
+- 📫 My e-mail is mason.2003323@gmail.com
